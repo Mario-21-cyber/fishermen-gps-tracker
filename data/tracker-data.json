@@ -1,0 +1,6284 @@
+{
+  "devices": [
+    {
+      "deviceId": "AZG-BOAT-001",
+      "fisherman": "James Madia",
+      "emergencyContact": "0917-000-0000",
+      "boatName": "F/V Pag-asa",
+      "registration": "AZG-001",
+      "status": "Active",
+      "lastLocation": {
+        "deviceId": "AZG-BOAT-001",
+        "lat": 12.295403,
+        "lng": 122.612159,
+        "accuracyM": 8,
+        "speedKph": 0,
+        "timestamp": "2026-09-07T07:06:47.816Z"
+      }
+    }
+  ],
+  "geofences": [
+    {
+      "name": "Azagra, Sibuyan Island safe operating area",
+      "lat": 12.2798,
+      "lng": 122.6282,
+      "radiusM": 100
+    }
+  ],
+  "locations": [
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668944,
+      "lng": 121.067169,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-08-28T21:50:42.250Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.66894,
+      "lng": 121.067172,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-08-28T21:51:42.208Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668947,
+      "lng": 121.06698,
+      "accuracyM": 8,
+      "speedKph": 31.7,
+      "timestamp": "2026-08-28T21:52:42.223Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668984,
+      "lng": 121.066767,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-08-28T21:53:42.246Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668902,
+      "lng": 121.067089,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-08-28T21:54:42.215Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668893,
+      "lng": 121.067149,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-08-28T21:55:42.354Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668903,
+      "lng": 121.06716,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-08-28T21:56:42.264Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668905,
+      "lng": 121.067152,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-08-28T21:57:42.265Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668953,
+      "lng": 121.067144,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-08-30T05:04:56.848Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669016,
+      "lng": 121.067117,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-08-30T05:05:56.623Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668968,
+      "lng": 121.067115,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-08-30T05:06:56.835Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668966,
+      "lng": 121.067133,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-08-30T05:07:56.620Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668961,
+      "lng": 121.067139,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-08-30T05:08:56.675Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669001,
+      "lng": 121.067111,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-08-30T05:39:03.473Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668909,
+      "lng": 121.067145,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-08-30T05:41:47.704Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669254,
+      "lng": 121.066959,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-08-30T05:42:47.412Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668892,
+      "lng": 121.067175,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-08-30T05:43:50.219Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668895,
+      "lng": 121.06717,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-08-30T05:44:47.354Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668896,
+      "lng": 121.067169,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-08-30T05:45:47.361Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668892,
+      "lng": 121.067169,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-08-30T05:46:47.325Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668887,
+      "lng": 121.067177,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-08-30T05:47:47.344Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668884,
+      "lng": 121.067187,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-08-30T05:48:47.344Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668885,
+      "lng": 121.067187,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-08-30T05:49:47.359Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669028,
+      "lng": 121.0671,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-08-31T14:37:10.845Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.66897,
+      "lng": 121.067127,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-08-31T14:38:10.694Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669012,
+      "lng": 121.067086,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-08-31T14:39:10.880Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668941,
+      "lng": 121.067141,
+      "accuracyM": 8,
+      "speedKph": 0.6,
+      "timestamp": "2026-08-31T14:40:11.088Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.66894,
+      "lng": 121.067148,
+      "accuracyM": 8,
+      "speedKph": 0.7,
+      "timestamp": "2026-08-31T14:41:11.296Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669083,
+      "lng": 121.067142,
+      "accuracyM": 8,
+      "speedKph": 0.8,
+      "timestamp": "2026-08-31T14:42:10.666Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669176,
+      "lng": 121.067114,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-08-31T14:43:10.691Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669115,
+      "lng": 121.067045,
+      "accuracyM": 8,
+      "speedKph": 1.3,
+      "timestamp": "2026-08-31T14:44:10.777Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669054,
+      "lng": 121.066983,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-08-31T14:45:10.775Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668957,
+      "lng": 121.067194,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-08-31T15:13:33.477Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668991,
+      "lng": 121.067173,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-08-31T15:14:34.654Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668571,
+      "lng": 121.066908,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-08-31T15:15:33.332Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668693,
+      "lng": 121.067071,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-08-31T15:16:33.319Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668859,
+      "lng": 121.067205,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-08-31T15:17:46.909Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668958,
+      "lng": 121.067212,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-08-31T15:18:33.410Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668973,
+      "lng": 121.067204,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-08-31T15:19:33.285Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668982,
+      "lng": 121.067199,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-08-31T15:20:33.515Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668983,
+      "lng": 121.067199,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-08-31T15:21:33.328Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668986,
+      "lng": 121.067214,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-08-31T15:36:13.984Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668985,
+      "lng": 121.067217,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-08-31T15:37:13.619Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668678,
+      "lng": 121.066936,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-08-31T15:38:14.519Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668839,
+      "lng": 121.067044,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-08-31T15:39:13.826Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668947,
+      "lng": 121.067061,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-08-31T15:40:13.861Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668974,
+      "lng": 121.067062,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-08-31T15:41:13.947Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668959,
+      "lng": 121.067111,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-08-31T15:42:14.028Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668941,
+      "lng": 121.067161,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-08-31T15:43:14.044Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668936,
+      "lng": 121.067194,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-08-31T15:44:13.941Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668917,
+      "lng": 121.067196,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-08-31T16:00:08.181Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.66893,
+      "lng": 121.067209,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-08-31T16:01:08.172Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668928,
+      "lng": 121.067202,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-08-31T16:02:09.164Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668887,
+      "lng": 121.067125,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-08-31T16:03:08.199Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668912,
+      "lng": 121.067147,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-08-31T16:04:32.141Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668917,
+      "lng": 121.067158,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-08-31T16:05:08.631Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668921,
+      "lng": 121.067166,
+      "accuracyM": 8,
+      "speedKph": 0.8,
+      "timestamp": "2026-08-31T16:06:08.831Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668929,
+      "lng": 121.067177,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-08-31T16:07:08.451Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668926,
+      "lng": 121.06718,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-08-31T16:08:11.867Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669007,
+      "lng": 121.067168,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T15:11:42.419Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668994,
+      "lng": 121.067083,
+      "accuracyM": 8,
+      "speedKph": 16.1,
+      "timestamp": "2026-09-01T15:12:39.572Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668899,
+      "lng": 121.066977,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T15:13:39.921Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668995,
+      "lng": 121.067113,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T15:14:39.839Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669,
+      "lng": 121.067116,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T15:15:39.982Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669009,
+      "lng": 121.067119,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T15:16:39.803Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669006,
+      "lng": 121.067104,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T15:17:39.948Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669015,
+      "lng": 121.067105,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T15:18:39.874Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669018,
+      "lng": 121.067163,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T15:24:59.491Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669019,
+      "lng": 121.067123,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T15:25:59.587Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668947,
+      "lng": 121.067182,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T15:44:37.419Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668985,
+      "lng": 121.067189,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T15:48:34.778Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668979,
+      "lng": 121.067216,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T15:49:34.783Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669037,
+      "lng": 121.067274,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T15:54:42.245Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669037,
+      "lng": 121.067259,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T15:54:56.960Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668954,
+      "lng": 121.066871,
+      "accuracyM": 8,
+      "speedKph": 32.6,
+      "timestamp": "2026-09-01T15:55:12.255Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668993,
+      "lng": 121.066809,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T15:55:27.083Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669027,
+      "lng": 121.0668,
+      "accuracyM": 8,
+      "speedKph": 1.9,
+      "timestamp": "2026-09-01T15:55:42.106Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669005,
+      "lng": 121.066786,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T15:55:57.199Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668931,
+      "lng": 121.067191,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T15:59:55.325Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669063,
+      "lng": 121.067081,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:12:04.012Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669024,
+      "lng": 121.06713,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:12:05.365Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669007,
+      "lng": 121.067154,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:12:20.372Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669001,
+      "lng": 121.067177,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:12:35.533Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669037,
+      "lng": 121.066457,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:12:50.547Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.66903,
+      "lng": 121.066676,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:13:05.451Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669003,
+      "lng": 121.066871,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:13:20.281Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668983,
+      "lng": 121.067009,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:13:35.956Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.66897,
+      "lng": 121.067132,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:13:50.616Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668965,
+      "lng": 121.067192,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:14:05.561Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668956,
+      "lng": 121.067212,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:14:21.417Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668955,
+      "lng": 121.067223,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:14:35.444Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668954,
+      "lng": 121.067227,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:14:50.488Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668957,
+      "lng": 121.067233,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:15:05.512Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668965,
+      "lng": 121.067237,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:15:20.263Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668976,
+      "lng": 121.067239,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:15:35.458Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668978,
+      "lng": 121.067236,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:15:50.465Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668981,
+      "lng": 121.067248,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:16:06.828Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668987,
+      "lng": 121.067254,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:16:21.261Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668991,
+      "lng": 121.067255,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:16:35.668Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668992,
+      "lng": 121.067257,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:16:50.499Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668991,
+      "lng": 121.067258,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:17:05.622Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668986,
+      "lng": 121.067247,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:17:20.552Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668986,
+      "lng": 121.067256,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:17:36.265Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668986,
+      "lng": 121.067239,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:17:53.106Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668986,
+      "lng": 121.067232,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:18:05.694Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668983,
+      "lng": 121.067224,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:18:21.882Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.66898,
+      "lng": 121.06722,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:18:35.514Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668979,
+      "lng": 121.067221,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:18:51.284Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668976,
+      "lng": 121.06723,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:19:06.062Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668973,
+      "lng": 121.067228,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:19:22.171Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.66897,
+      "lng": 121.067226,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:19:35.606Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668906,
+      "lng": 121.067197,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:26:14.891Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.66894,
+      "lng": 121.067215,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:31:43.006Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668947,
+      "lng": 121.067216,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:31:58.184Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668951,
+      "lng": 121.067222,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:32:12.643Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668948,
+      "lng": 121.067227,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:32:28.261Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668874,
+      "lng": 121.066765,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:32:54.536Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668833,
+      "lng": 121.066788,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:32:57.328Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668836,
+      "lng": 121.066941,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:33:17.620Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668859,
+      "lng": 121.06706,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:33:27.612Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668887,
+      "lng": 121.067137,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:33:44.144Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668909,
+      "lng": 121.067178,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:33:57.504Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668917,
+      "lng": 121.067197,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:34:12.602Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668919,
+      "lng": 121.067205,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:34:28.843Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668919,
+      "lng": 121.067213,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:34:44.053Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668919,
+      "lng": 121.067211,
+      "accuracyM": 8,
+      "speedKph": 1.9,
+      "timestamp": "2026-09-01T16:34:57.375Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668917,
+      "lng": 121.067211,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:35:13.262Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668919,
+      "lng": 121.06721,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:35:27.635Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668918,
+      "lng": 121.067213,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:35:42.673Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668922,
+      "lng": 121.067218,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:35:57.676Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668924,
+      "lng": 121.067232,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:36:14.164Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668922,
+      "lng": 121.067241,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:36:27.635Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668916,
+      "lng": 121.067194,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:39:24.722Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668912,
+      "lng": 121.067188,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:39:40.547Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.66891,
+      "lng": 121.067183,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:39:55.938Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668914,
+      "lng": 121.067178,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:40:09.595Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668917,
+      "lng": 121.067181,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:40:24.631Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.66892,
+      "lng": 121.067183,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:40:39.363Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668923,
+      "lng": 121.067186,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:40:54.614Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668923,
+      "lng": 121.067186,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:41:09.925Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668923,
+      "lng": 121.067181,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:41:24.570Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668918,
+      "lng": 121.067176,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:41:39.607Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668916,
+      "lng": 121.067174,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:41:55.612Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668917,
+      "lng": 121.06717,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:42:09.786Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.66892,
+      "lng": 121.067165,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:42:24.733Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668884,
+      "lng": 121.067106,
+      "accuracyM": 8,
+      "speedKph": 15.8,
+      "timestamp": "2026-09-01T16:42:39.576Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.66877,
+      "lng": 121.066894,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:42:54.501Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668796,
+      "lng": 121.06695,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:43:09.608Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668813,
+      "lng": 121.066984,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:43:24.736Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668824,
+      "lng": 121.067001,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:43:39.701Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668839,
+      "lng": 121.067021,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:43:54.637Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668851,
+      "lng": 121.06705,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:44:09.666Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668851,
+      "lng": 121.067065,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:44:24.664Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.66885,
+      "lng": 121.067072,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:44:39.724Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668849,
+      "lng": 121.067077,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:44:54.622Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.66885,
+      "lng": 121.067085,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:45:09.698Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668852,
+      "lng": 121.067091,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:45:24.988Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668862,
+      "lng": 121.067131,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:46:08.348Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668862,
+      "lng": 121.067132,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:46:12.032Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668864,
+      "lng": 121.067148,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:46:27.189Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668867,
+      "lng": 121.067151,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:46:42.539Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668956,
+      "lng": 121.067145,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:52:06.717Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668964,
+      "lng": 121.067138,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:52:21.319Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668974,
+      "lng": 121.067139,
+      "accuracyM": 8,
+      "speedKph": 2.6,
+      "timestamp": "2026-09-01T16:52:36.782Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669064,
+      "lng": 121.066831,
+      "accuracyM": 8,
+      "speedKph": 1.2,
+      "timestamp": "2026-09-01T16:52:51.612Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.66907,
+      "lng": 121.066834,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:53:07.070Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669081,
+      "lng": 121.067049,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:55:47.911Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.66907,
+      "lng": 121.067061,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:56:02.628Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669063,
+      "lng": 121.06708,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:56:17.699Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668865,
+      "lng": 121.067311,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:57:30.853Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668515,
+      "lng": 121.066988,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:57:45.484Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668625,
+      "lng": 121.066954,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:58:00.676Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668743,
+      "lng": 121.067068,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:58:15.697Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668811,
+      "lng": 121.067162,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:58:30.729Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668841,
+      "lng": 121.067187,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:58:45.498Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668848,
+      "lng": 121.067187,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:59:00.720Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668859,
+      "lng": 121.067191,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:59:15.712Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668861,
+      "lng": 121.067192,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:59:30.939Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668863,
+      "lng": 121.067192,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T16:59:45.779Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668865,
+      "lng": 121.067194,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:00:02.325Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668867,
+      "lng": 121.067192,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:00:15.759Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668873,
+      "lng": 121.067188,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:00:30.759Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668878,
+      "lng": 121.067184,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:00:45.715Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.66888,
+      "lng": 121.067183,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:01:04.030Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668883,
+      "lng": 121.067177,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:01:15.929Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668881,
+      "lng": 121.067174,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:01:30.721Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668879,
+      "lng": 121.067176,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:01:45.986Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668876,
+      "lng": 121.067181,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:02:14.440Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668876,
+      "lng": 121.067186,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:02:17.348Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668876,
+      "lng": 121.067186,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:02:30.824Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668873,
+      "lng": 121.067189,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:02:46.813Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668883,
+      "lng": 121.067193,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:03:02.126Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668883,
+      "lng": 121.06719,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:03:15.739Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668879,
+      "lng": 121.067193,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:03:31.497Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668876,
+      "lng": 121.067196,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:03:46.099Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668872,
+      "lng": 121.067195,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:04:00.748Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668874,
+      "lng": 121.067193,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:04:15.775Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668882,
+      "lng": 121.067203,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:04:30.837Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668888,
+      "lng": 121.067185,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:04:45.884Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668902,
+      "lng": 121.067178,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:05:15.748Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668907,
+      "lng": 121.067175,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:05:30.717Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668907,
+      "lng": 121.067159,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:05:45.741Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668993,
+      "lng": 121.067213,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:06:56.343Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668982,
+      "lng": 121.067194,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:07:11.929Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669034,
+      "lng": 121.067219,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:07:41.306Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.66901,
+      "lng": 121.067263,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:07:57.025Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669,
+      "lng": 121.067195,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:08:11.887Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669,
+      "lng": 121.067178,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:08:26.540Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669,
+      "lng": 121.067166,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:08:41.936Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668995,
+      "lng": 121.067154,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:08:56.587Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668992,
+      "lng": 121.067149,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:09:12.107Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668993,
+      "lng": 121.067151,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:09:27.293Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668919,
+      "lng": 121.067231,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:13:10.584Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668914,
+      "lng": 121.067224,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:13:25.671Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.66891,
+      "lng": 121.067219,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:13:40.707Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668905,
+      "lng": 121.067215,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:13:55.574Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668902,
+      "lng": 121.067212,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:14:10.955Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668906,
+      "lng": 121.067205,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:14:25.596Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668919,
+      "lng": 121.067203,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:14:40.412Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668929,
+      "lng": 121.067187,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:14:55.861Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668856,
+      "lng": 121.067052,
+      "accuracyM": 8,
+      "speedKph": 24.7,
+      "timestamp": "2026-09-01T17:15:10.497Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668592,
+      "lng": 121.066321,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:15:25.695Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668661,
+      "lng": 121.066403,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:15:40.649Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668936,
+      "lng": 121.067151,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:17:57.669Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.66894,
+      "lng": 121.067149,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:18:12.277Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668939,
+      "lng": 121.06715,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:18:27.309Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668939,
+      "lng": 121.067146,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:18:42.340Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668945,
+      "lng": 121.067139,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:18:57.349Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668948,
+      "lng": 121.067134,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:19:13.389Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668947,
+      "lng": 121.067133,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:19:27.284Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668947,
+      "lng": 121.067185,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:20:21.342Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668972,
+      "lng": 121.06718,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:20:36.708Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668996,
+      "lng": 121.067174,
+      "accuracyM": 8,
+      "speedKph": 1.6,
+      "timestamp": "2026-09-01T17:20:51.292Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668996,
+      "lng": 121.067185,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:21:06.488Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668993,
+      "lng": 121.067192,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:21:21.424Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668988,
+      "lng": 121.067191,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:21:36.573Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668972,
+      "lng": 121.067193,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:21:51.401Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668994,
+      "lng": 121.06709,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:22:59.656Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668988,
+      "lng": 121.067098,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:23:14.578Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668982,
+      "lng": 121.067113,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:23:29.561Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668983,
+      "lng": 121.06713,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:23:44.672Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668977,
+      "lng": 121.067136,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:23:59.587Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668972,
+      "lng": 121.067141,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:24:14.588Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668965,
+      "lng": 121.067145,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:24:29.360Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668958,
+      "lng": 121.067149,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:24:44.739Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668953,
+      "lng": 121.067151,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:24:59.471Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668376,
+      "lng": 121.067347,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:25:14.657Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.66852,
+      "lng": 121.067343,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:25:29.406Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668664,
+      "lng": 121.067289,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:25:44.690Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668738,
+      "lng": 121.067262,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:25:59.612Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668791,
+      "lng": 121.067245,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:26:14.600Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668828,
+      "lng": 121.067223,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:26:29.349Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668843,
+      "lng": 121.067211,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:26:44.579Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668856,
+      "lng": 121.067199,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:26:59.933Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668852,
+      "lng": 121.067195,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:27:15.014Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668868,
+      "lng": 121.067192,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:27:29.342Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668879,
+      "lng": 121.067189,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:27:44.604Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668887,
+      "lng": 121.067186,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:27:59.676Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668896,
+      "lng": 121.067184,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:28:14.606Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668907,
+      "lng": 121.067182,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:28:29.370Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668916,
+      "lng": 121.067183,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:28:44.365Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668921,
+      "lng": 121.067183,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:28:59.802Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668926,
+      "lng": 121.067181,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:29:14.908Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668929,
+      "lng": 121.067182,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:29:29.587Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669005,
+      "lng": 121.067157,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:31:55.589Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669006,
+      "lng": 121.067142,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:32:10.630Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669,
+      "lng": 121.067138,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:32:25.370Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668999,
+      "lng": 121.067136,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:32:41.348Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668998,
+      "lng": 121.067138,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:32:56.314Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668998,
+      "lng": 121.067136,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:33:10.624Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669,
+      "lng": 121.067129,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:33:25.441Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669001,
+      "lng": 121.067123,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:33:40.664Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669004,
+      "lng": 121.067116,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:33:56.889Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669005,
+      "lng": 121.067113,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:34:10.874Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669005,
+      "lng": 121.067115,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:34:25.493Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669007,
+      "lng": 121.067117,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:34:40.774Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669007,
+      "lng": 121.067116,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:34:57.214Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668859,
+      "lng": 121.067046,
+      "accuracyM": 8,
+      "speedKph": 24.2,
+      "timestamp": "2026-09-01T17:35:10.681Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668387,
+      "lng": 121.06652,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:35:25.397Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668295,
+      "lng": 121.066481,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:35:44.654Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668317,
+      "lng": 121.066473,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:35:55.678Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668383,
+      "lng": 121.066568,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:36:10.725Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668463,
+      "lng": 121.066715,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:36:25.455Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668565,
+      "lng": 121.066875,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:36:40.676Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668707,
+      "lng": 121.067046,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:36:55.672Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668798,
+      "lng": 121.067121,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:37:10.658Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668861,
+      "lng": 121.067156,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:37:25.652Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668894,
+      "lng": 121.067152,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:37:40.674Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668914,
+      "lng": 121.067139,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:37:55.762Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668921,
+      "lng": 121.067134,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:38:10.718Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668923,
+      "lng": 121.067135,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:38:25.659Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668928,
+      "lng": 121.067135,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:38:40.660Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668922,
+      "lng": 121.06713,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:38:55.672Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668924,
+      "lng": 121.067133,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:39:10.722Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668915,
+      "lng": 121.067145,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:39:26.170Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.66891,
+      "lng": 121.067155,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:39:40.827Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668923,
+      "lng": 121.067159,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:39:56.428Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668934,
+      "lng": 121.067154,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:40:12.013Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668956,
+      "lng": 121.067157,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:40:25.587Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668971,
+      "lng": 121.067153,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:40:42.878Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668984,
+      "lng": 121.067152,
+      "accuracyM": 8,
+      "speedKph": 1.4,
+      "timestamp": "2026-09-01T17:40:56.112Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668994,
+      "lng": 121.067119,
+      "accuracyM": 8,
+      "speedKph": 2.4,
+      "timestamp": "2026-09-01T17:42:25.609Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669004,
+      "lng": 121.067131,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:42:40.720Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668997,
+      "lng": 121.067134,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:42:55.461Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668988,
+      "lng": 121.067145,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:43:10.454Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668981,
+      "lng": 121.06715,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:43:25.522Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.66899,
+      "lng": 121.067143,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:43:40.450Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668988,
+      "lng": 121.067149,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:43:55.153Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669008,
+      "lng": 121.067142,
+      "accuracyM": 8,
+      "speedKph": 1.7,
+      "timestamp": "2026-09-01T17:44:11.148Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669006,
+      "lng": 121.067157,
+      "accuracyM": 8,
+      "speedKph": 0.1,
+      "timestamp": "2026-09-01T17:44:26.569Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669002,
+      "lng": 121.067166,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:44:40.525Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668999,
+      "lng": 121.067177,
+      "accuracyM": 8,
+      "speedKph": 0.7,
+      "timestamp": "2026-09-01T17:44:55.448Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668987,
+      "lng": 121.067198,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:45:10.562Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668988,
+      "lng": 121.067214,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:45:27.427Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668985,
+      "lng": 121.06722,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:45:40.476Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669009,
+      "lng": 121.067211,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:45:56.964Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669015,
+      "lng": 121.067215,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:46:10.596Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669022,
+      "lng": 121.06721,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:46:25.634Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669029,
+      "lng": 121.067207,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:46:40.512Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669027,
+      "lng": 121.067199,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:46:55.687Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669029,
+      "lng": 121.067198,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:47:12.331Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669031,
+      "lng": 121.067193,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:47:26.154Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669036,
+      "lng": 121.067209,
+      "accuracyM": 8,
+      "speedKph": 2.3,
+      "timestamp": "2026-09-01T17:47:40.595Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669035,
+      "lng": 121.067209,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:47:55.556Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669033,
+      "lng": 121.067192,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:48:10.493Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669036,
+      "lng": 121.067181,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:48:26.117Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669046,
+      "lng": 121.067173,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:48:40.499Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669062,
+      "lng": 121.067181,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:48:56.628Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669083,
+      "lng": 121.067173,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:49:10.606Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.66909,
+      "lng": 121.067165,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:49:25.531Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669095,
+      "lng": 121.067158,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:49:42.089Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669099,
+      "lng": 121.067147,
+      "accuracyM": 8,
+      "speedKph": 1.2,
+      "timestamp": "2026-09-01T17:49:55.731Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669095,
+      "lng": 121.067138,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:50:10.548Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.66909,
+      "lng": 121.067131,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:50:35.592Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669071,
+      "lng": 121.067134,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:50:40.493Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669069,
+      "lng": 121.067136,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:50:56.053Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669061,
+      "lng": 121.067158,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:52:17.577Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669035,
+      "lng": 121.067169,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:52:32.362Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669006,
+      "lng": 121.067181,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:52:47.742Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668993,
+      "lng": 121.067187,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:53:02.576Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668991,
+      "lng": 121.067192,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:53:32.869Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668992,
+      "lng": 121.067194,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:54:00.395Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668993,
+      "lng": 121.067199,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:54:02.722Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669077,
+      "lng": 121.067239,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:55:46.560Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.66905,
+      "lng": 121.067233,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:56:01.537Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669057,
+      "lng": 121.067223,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:56:16.317Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669042,
+      "lng": 121.06722,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:56:31.588Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669048,
+      "lng": 121.067214,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:56:46.539Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.66904,
+      "lng": 121.067209,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:57:01.615Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669038,
+      "lng": 121.067209,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:57:16.384Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669023,
+      "lng": 121.067203,
+      "accuracyM": 8,
+      "speedKph": 0.8,
+      "timestamp": "2026-09-01T17:57:31.422Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668999,
+      "lng": 121.067196,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:57:46.665Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668985,
+      "lng": 121.067184,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:58:01.445Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668979,
+      "lng": 121.067177,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:58:16.671Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668975,
+      "lng": 121.067171,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:58:32.850Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668973,
+      "lng": 121.067171,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:58:46.702Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668969,
+      "lng": 121.067167,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:59:01.662Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668992,
+      "lng": 121.067162,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:59:16.542Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668974,
+      "lng": 121.067164,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:59:32.188Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668971,
+      "lng": 121.067162,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T17:59:46.550Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669008,
+      "lng": 121.067145,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:00:01.614Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669008,
+      "lng": 121.067138,
+      "accuracyM": 8,
+      "speedKph": 1.7,
+      "timestamp": "2026-09-01T18:00:17.647Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669002,
+      "lng": 121.06713,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:00:32.930Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668996,
+      "lng": 121.067128,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:00:46.461Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669003,
+      "lng": 121.067131,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:01:03.552Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669022,
+      "lng": 121.067124,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:01:16.487Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669036,
+      "lng": 121.067128,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:01:31.559Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669039,
+      "lng": 121.067123,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:01:46.561Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669058,
+      "lng": 121.067123,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:02:01.631Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669069,
+      "lng": 121.067124,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:02:16.636Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669076,
+      "lng": 121.067126,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:02:32.713Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669078,
+      "lng": 121.067129,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:02:48.106Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669078,
+      "lng": 121.067142,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:03:01.634Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669075,
+      "lng": 121.067154,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:03:20.930Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668966,
+      "lng": 121.067182,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:05:45.503Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668967,
+      "lng": 121.0672,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:06:03.377Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668976,
+      "lng": 121.067202,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:06:15.319Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668967,
+      "lng": 121.0672,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:06:30.454Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668957,
+      "lng": 121.067203,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:06:46.762Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668963,
+      "lng": 121.067202,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:07:01.181Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668961,
+      "lng": 121.067196,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:07:18.321Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.66906,
+      "lng": 121.067154,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:09:51.105Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669065,
+      "lng": 121.067147,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:10:05.907Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669069,
+      "lng": 121.067134,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:10:21.159Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669069,
+      "lng": 121.067129,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:10:36.163Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669069,
+      "lng": 121.067136,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:10:51.391Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669062,
+      "lng": 121.067151,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:11:06.014Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669046,
+      "lng": 121.067183,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:11:23.129Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669021,
+      "lng": 121.067201,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:11:37.586Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668987,
+      "lng": 121.067213,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:11:51.284Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668964,
+      "lng": 121.067218,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:12:05.935Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668954,
+      "lng": 121.067222,
+      "accuracyM": 8,
+      "speedKph": 2.1,
+      "timestamp": "2026-09-01T18:12:21.176Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668949,
+      "lng": 121.067221,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:12:36.215Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668942,
+      "lng": 121.067218,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:12:51.211Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668938,
+      "lng": 121.067224,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:13:06.022Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668943,
+      "lng": 121.06723,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:13:22.466Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668947,
+      "lng": 121.067228,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:13:36.171Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668947,
+      "lng": 121.067225,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:13:51.212Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.66894,
+      "lng": 121.067228,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:14:06.186Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668935,
+      "lng": 121.067225,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:14:21.314Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668935,
+      "lng": 121.067227,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:14:36.245Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668926,
+      "lng": 121.067228,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:14:52.547Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668927,
+      "lng": 121.067229,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:15:06.377Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668929,
+      "lng": 121.067234,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:15:27.133Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668934,
+      "lng": 121.067226,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:15:41.407Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668934,
+      "lng": 121.067229,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:15:51.173Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668933,
+      "lng": 121.067232,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:16:06.567Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668934,
+      "lng": 121.067231,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:16:21.297Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668935,
+      "lng": 121.067229,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:16:36.186Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668936,
+      "lng": 121.067229,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:16:51.550Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668937,
+      "lng": 121.067228,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:17:06.240Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668941,
+      "lng": 121.06723,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:17:21.499Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.66894,
+      "lng": 121.067228,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:17:36.211Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668342,
+      "lng": 121.066746,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:17:51.301Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668502,
+      "lng": 121.066834,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:18:06.185Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668556,
+      "lng": 121.066906,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:18:21.206Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668679,
+      "lng": 121.066956,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:18:36.231Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669062,
+      "lng": 121.067148,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:20:10.995Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.66904,
+      "lng": 121.067166,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:20:24.660Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669018,
+      "lng": 121.06718,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:20:39.162Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669008,
+      "lng": 121.067184,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:20:54.510Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.66901,
+      "lng": 121.067184,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:21:09.475Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669006,
+      "lng": 121.067187,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:21:24.512Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669,
+      "lng": 121.067194,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:21:40.636Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668994,
+      "lng": 121.067202,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:21:54.470Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668991,
+      "lng": 121.067205,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:22:09.703Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668988,
+      "lng": 121.067205,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:22:25.469Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.66897,
+      "lng": 121.067143,
+      "accuracyM": 8,
+      "speedKph": 13.2,
+      "timestamp": "2026-09-01T18:22:39.246Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668524,
+      "lng": 121.066761,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:22:55.119Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668665,
+      "lng": 121.066814,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:23:09.640Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668858,
+      "lng": 121.066842,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:23:25.923Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668971,
+      "lng": 121.066937,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:23:39.520Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669,
+      "lng": 121.067053,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:23:54.508Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669008,
+      "lng": 121.067122,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:24:09.568Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669011,
+      "lng": 121.067152,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:24:24.505Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669019,
+      "lng": 121.067161,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:24:39.502Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669012,
+      "lng": 121.067159,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:24:54.495Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669004,
+      "lng": 121.067159,
+      "accuracyM": 8,
+      "speedKph": 2,
+      "timestamp": "2026-09-01T18:25:21.412Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668992,
+      "lng": 121.067159,
+      "accuracyM": 8,
+      "speedKph": 2,
+      "timestamp": "2026-09-01T18:25:26.297Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668997,
+      "lng": 121.067161,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:25:41.597Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669015,
+      "lng": 121.067161,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:25:57.068Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669023,
+      "lng": 121.067164,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:26:12.880Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669032,
+      "lng": 121.067163,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:26:26.616Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669031,
+      "lng": 121.067162,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:26:41.955Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669035,
+      "lng": 121.067159,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:26:56.596Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669042,
+      "lng": 121.067154,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:27:11.763Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669061,
+      "lng": 121.067159,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:27:26.542Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669057,
+      "lng": 121.067167,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:27:41.692Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669056,
+      "lng": 121.067175,
+      "accuracyM": 8,
+      "speedKph": 0.2,
+      "timestamp": "2026-09-01T18:27:56.448Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.66904,
+      "lng": 121.067176,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:28:11.646Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669025,
+      "lng": 121.067178,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:28:26.723Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669023,
+      "lng": 121.067178,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:28:41.723Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669023,
+      "lng": 121.067178,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:28:56.440Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.669022,
+      "lng": 121.06718,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:29:11.681Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668965,
+      "lng": 121.067147,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:30:46.396Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668972,
+      "lng": 121.067149,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:31:01.333Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668971,
+      "lng": 121.067149,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:31:16.364Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668956,
+      "lng": 121.067155,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:31:31.421Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668961,
+      "lng": 121.067154,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:31:46.462Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668968,
+      "lng": 121.067153,
+      "accuracyM": 8,
+      "speedKph": 1.1,
+      "timestamp": "2026-09-01T18:32:01.833Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668972,
+      "lng": 121.067152,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:32:16.253Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668975,
+      "lng": 121.067148,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:32:31.522Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668233,
+      "lng": 121.06692,
+      "accuracyM": 8,
+      "speedKph": 42.6,
+      "timestamp": "2026-09-01T18:32:46.479Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.667975,
+      "lng": 121.066793,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:33:01.763Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.667761,
+      "lng": 121.066716,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:33:16.263Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.667543,
+      "lng": 121.066632,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:33:31.726Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.667597,
+      "lng": 121.066641,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:33:46.559Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.667654,
+      "lng": 121.066653,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:34:01.534Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.667689,
+      "lng": 121.066689,
+      "accuracyM": 8,
+      "speedKph": 0.5,
+      "timestamp": "2026-09-01T18:34:16.269Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.667759,
+      "lng": 121.066714,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:34:31.442Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.667857,
+      "lng": 121.066753,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:34:46.590Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.667994,
+      "lng": 121.066849,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:35:01.497Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668202,
+      "lng": 121.066951,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:35:16.433Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668446,
+      "lng": 121.067069,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:35:31.540Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668614,
+      "lng": 121.067144,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:35:47.137Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668743,
+      "lng": 121.067133,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:36:01.473Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668826,
+      "lng": 121.067119,
+      "accuracyM": 8,
+      "speedKph": 1.5,
+      "timestamp": "2026-09-01T18:36:16.242Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668916,
+      "lng": 121.067117,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:36:31.478Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668943,
+      "lng": 121.067121,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:36:46.462Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668956,
+      "lng": 121.067121,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:37:01.562Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668955,
+      "lng": 121.067116,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:37:16.268Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668963,
+      "lng": 121.067112,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:37:31.657Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668959,
+      "lng": 121.067111,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:37:46.529Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668946,
+      "lng": 121.06712,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:38:01.506Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668959,
+      "lng": 121.067164,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:39:51.025Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 14.668943,
+      "lng": 121.067171,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-01T18:41:24.752Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295323,
+      "lng": 122.61216,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T17:43:06.471Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295329,
+      "lng": 122.612184,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T17:43:21.666Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295409,
+      "lng": 122.612248,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T17:44:56.247Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295421,
+      "lng": 122.612232,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T17:45:10.380Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295412,
+      "lng": 122.612219,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T17:45:25.334Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295409,
+      "lng": 122.612215,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T17:45:40.353Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295409,
+      "lng": 122.612223,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T17:45:55.376Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295409,
+      "lng": 122.612233,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T17:46:10.350Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295406,
+      "lng": 122.612238,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T17:46:25.338Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295399,
+      "lng": 122.61224,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T17:46:40.325Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295391,
+      "lng": 122.612241,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T17:46:55.497Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295385,
+      "lng": 122.612242,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T17:47:10.551Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.29538,
+      "lng": 122.612241,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T17:47:25.369Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295374,
+      "lng": 122.612238,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T17:47:40.046Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.29537,
+      "lng": 122.612235,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T17:47:55.453Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295369,
+      "lng": 122.612228,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T17:48:10.481Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295369,
+      "lng": 122.61223,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T17:48:25.295Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.29537,
+      "lng": 122.612233,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T17:48:40.051Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295368,
+      "lng": 122.612233,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T17:48:56.104Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295369,
+      "lng": 122.612234,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T17:49:10.229Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295371,
+      "lng": 122.612232,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T17:49:25.361Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295374,
+      "lng": 122.612231,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T17:49:40.016Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295374,
+      "lng": 122.612228,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T17:49:55.308Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295376,
+      "lng": 122.612227,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T17:50:10.351Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295378,
+      "lng": 122.612227,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T17:50:25.157Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295381,
+      "lng": 122.612228,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T17:50:40.210Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295381,
+      "lng": 122.612222,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T17:50:55.045Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295379,
+      "lng": 122.612214,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T17:51:10.362Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295374,
+      "lng": 122.612202,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T17:51:25.295Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295369,
+      "lng": 122.612195,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T17:51:40.293Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295363,
+      "lng": 122.612191,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T17:51:55.312Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295358,
+      "lng": 122.612186,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T17:52:10.319Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295344,
+      "lng": 122.612063,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T17:53:36.999Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295342,
+      "lng": 122.612081,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T17:53:51.843Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295343,
+      "lng": 122.612092,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T17:54:06.588Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295346,
+      "lng": 122.612091,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T17:54:21.920Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295349,
+      "lng": 122.612096,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T17:54:36.899Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295371,
+      "lng": 122.612208,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T18:35:10.793Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295366,
+      "lng": 122.612195,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T18:35:24.822Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295364,
+      "lng": 122.612186,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T18:35:39.526Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295359,
+      "lng": 122.61219,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T18:35:54.901Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295361,
+      "lng": 122.61219,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T18:36:10.025Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295387,
+      "lng": 122.612118,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T18:43:56.084Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.29539,
+      "lng": 122.612116,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T18:44:11.105Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295433,
+      "lng": 122.61215,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T18:45:41.073Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295424,
+      "lng": 122.612145,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T18:45:55.849Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295415,
+      "lng": 122.612136,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T18:46:10.583Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295405,
+      "lng": 122.612127,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T18:46:25.936Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295398,
+      "lng": 122.612122,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T18:46:41.021Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295396,
+      "lng": 122.612123,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T18:46:56.125Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295392,
+      "lng": 122.612122,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T18:47:10.649Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295389,
+      "lng": 122.612122,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T18:47:25.864Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295173,
+      "lng": 122.612707,
+      "accuracyM": 8,
+      "speedKph": 43,
+      "timestamp": "2026-09-04T18:47:40.937Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295181,
+      "lng": 122.612611,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T18:47:55.943Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295234,
+      "lng": 122.612499,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T18:48:10.654Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295282,
+      "lng": 122.612407,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T18:48:25.883Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295323,
+      "lng": 122.612291,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T18:48:41.062Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295361,
+      "lng": 122.612217,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T18:48:56.504Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295377,
+      "lng": 122.612193,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T18:49:10.651Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295387,
+      "lng": 122.612177,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T18:49:25.926Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295393,
+      "lng": 122.612163,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T18:49:40.928Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295395,
+      "lng": 122.612154,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T18:49:55.962Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295395,
+      "lng": 122.61215,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T18:50:11.189Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295399,
+      "lng": 122.612151,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T18:50:26.096Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295398,
+      "lng": 122.612152,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T18:50:40.941Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295399,
+      "lng": 122.612146,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T18:50:55.853Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.2954,
+      "lng": 122.61214,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T18:51:10.939Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295399,
+      "lng": 122.612137,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T18:51:26.046Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295397,
+      "lng": 122.612136,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T18:51:41.000Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295398,
+      "lng": 122.612131,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T18:51:55.936Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295403,
+      "lng": 122.612136,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T18:52:10.939Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295394,
+      "lng": 122.612114,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T18:54:16.686Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295394,
+      "lng": 122.612117,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T18:54:26.647Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295397,
+      "lng": 122.612125,
+      "accuracyM": 8,
+      "speedKph": 1.7,
+      "timestamp": "2026-09-04T18:54:36.281Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295402,
+      "lng": 122.612129,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T18:54:46.619Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295404,
+      "lng": 122.612138,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T18:54:56.997Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295409,
+      "lng": 122.612144,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T18:55:06.565Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295412,
+      "lng": 122.612145,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T18:55:16.704Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295413,
+      "lng": 122.612145,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T18:55:26.679Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295414,
+      "lng": 122.612146,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T18:55:36.284Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295361,
+      "lng": 122.61206,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T18:58:31.055Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.29537,
+      "lng": 122.612059,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T18:58:40.736Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295376,
+      "lng": 122.612064,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T18:58:51.026Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295368,
+      "lng": 122.61209,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:01:44.696Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295365,
+      "lng": 122.612087,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:01:54.889Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295363,
+      "lng": 122.612085,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:02:05.075Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.29536,
+      "lng": 122.612078,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:02:15.108Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295361,
+      "lng": 122.612067,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:02:24.944Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295363,
+      "lng": 122.612058,
+      "accuracyM": 8,
+      "speedKph": 0.6,
+      "timestamp": "2026-09-04T19:02:34.873Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295364,
+      "lng": 122.612064,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:02:44.703Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295365,
+      "lng": 122.612065,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:02:55.000Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295364,
+      "lng": 122.612067,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:03:04.865Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295364,
+      "lng": 122.612064,
+      "accuracyM": 8,
+      "speedKph": 1.2,
+      "timestamp": "2026-09-04T19:03:14.911Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295397,
+      "lng": 122.612146,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:04:36.011Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295393,
+      "lng": 122.612145,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:04:45.946Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295393,
+      "lng": 122.612152,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:04:56.907Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295405,
+      "lng": 122.612156,
+      "accuracyM": 8,
+      "speedKph": 0.8,
+      "timestamp": "2026-09-04T19:05:05.626Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295042,
+      "lng": 122.612966,
+      "accuracyM": 8,
+      "speedKph": 41.3,
+      "timestamp": "2026-09-04T19:05:15.998Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295045,
+      "lng": 122.613705,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:05:25.889Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295087,
+      "lng": 122.613373,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:05:35.980Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295174,
+      "lng": 122.613192,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:05:46.381Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295234,
+      "lng": 122.613,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:05:55.900Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295272,
+      "lng": 122.612826,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:06:05.770Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295296,
+      "lng": 122.612622,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:06:15.962Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.29532,
+      "lng": 122.612483,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:06:25.868Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295339,
+      "lng": 122.612358,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:06:36.220Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295354,
+      "lng": 122.612251,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:06:45.918Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295353,
+      "lng": 122.612194,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:06:55.886Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.29535,
+      "lng": 122.612166,
+      "accuracyM": 8,
+      "speedKph": 0.6,
+      "timestamp": "2026-09-04T19:07:05.631Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295354,
+      "lng": 122.612152,
+      "accuracyM": 8,
+      "speedKph": 1.5,
+      "timestamp": "2026-09-04T19:07:16.062Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295355,
+      "lng": 122.612128,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:07:26.181Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295356,
+      "lng": 122.612126,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:07:35.879Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.29535,
+      "lng": 122.612123,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:07:46.022Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295344,
+      "lng": 122.612132,
+      "accuracyM": 8,
+      "speedKph": 1.4,
+      "timestamp": "2026-09-04T19:07:55.896Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295343,
+      "lng": 122.612138,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:08:05.697Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295339,
+      "lng": 122.612134,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:08:16.026Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295342,
+      "lng": 122.612128,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:08:26.062Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295343,
+      "lng": 122.612129,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:08:35.889Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295346,
+      "lng": 122.612127,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:08:45.922Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295349,
+      "lng": 122.612124,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:08:55.872Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295352,
+      "lng": 122.612113,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:09:05.961Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295349,
+      "lng": 122.61211,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:09:15.916Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295345,
+      "lng": 122.612103,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:09:26.322Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295348,
+      "lng": 122.612099,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:09:36.125Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.29535,
+      "lng": 122.612094,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:09:46.095Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295351,
+      "lng": 122.61209,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:09:56.216Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295354,
+      "lng": 122.612085,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:10:05.932Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295357,
+      "lng": 122.612083,
+      "accuracyM": 8,
+      "speedKph": 1.6,
+      "timestamp": "2026-09-04T19:10:16.037Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.29537,
+      "lng": 122.612083,
+      "accuracyM": 8,
+      "speedKph": 1,
+      "timestamp": "2026-09-04T19:10:26.003Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295376,
+      "lng": 122.61208,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:10:35.914Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295378,
+      "lng": 122.61208,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:10:46.043Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295378,
+      "lng": 122.61208,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:10:55.927Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295378,
+      "lng": 122.612081,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:11:05.914Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295379,
+      "lng": 122.61208,
+      "accuracyM": 8,
+      "speedKph": 0.8,
+      "timestamp": "2026-09-04T19:11:16.101Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295379,
+      "lng": 122.612075,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:11:26.155Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295381,
+      "lng": 122.612077,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:11:36.057Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.29538,
+      "lng": 122.612076,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:11:45.944Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295378,
+      "lng": 122.612074,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:11:56.352Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295381,
+      "lng": 122.612079,
+      "accuracyM": 8,
+      "speedKph": 1.2,
+      "timestamp": "2026-09-04T19:12:06.016Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295384,
+      "lng": 122.61208,
+      "accuracyM": 8,
+      "speedKph": 1.9,
+      "timestamp": "2026-09-04T19:12:26.059Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.29538,
+      "lng": 122.612089,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:12:35.994Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295381,
+      "lng": 122.612087,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:12:45.931Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295385,
+      "lng": 122.612079,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:12:55.933Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295389,
+      "lng": 122.61208,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:13:05.942Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295392,
+      "lng": 122.612077,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:13:15.667Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295396,
+      "lng": 122.612075,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:13:26.068Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295398,
+      "lng": 122.61207,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:13:36.123Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295409,
+      "lng": 122.611976,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:15:04.057Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295399,
+      "lng": 122.611979,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:15:13.989Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295394,
+      "lng": 122.611986,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:15:24.545Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295388,
+      "lng": 122.611999,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:15:33.618Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.29538,
+      "lng": 122.612012,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:15:44.055Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295374,
+      "lng": 122.61203,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:15:53.924Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295371,
+      "lng": 122.612042,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:16:03.960Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295364,
+      "lng": 122.612055,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:16:13.885Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295356,
+      "lng": 122.612062,
+      "accuracyM": 8,
+      "speedKph": 2.1,
+      "timestamp": "2026-09-04T19:16:24.093Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295348,
+      "lng": 122.61207,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:16:33.958Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295341,
+      "lng": 122.612084,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:16:44.042Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295355,
+      "lng": 122.612099,
+      "accuracyM": 8,
+      "speedKph": 2.4,
+      "timestamp": "2026-09-04T19:16:54.094Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295372,
+      "lng": 122.612097,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:17:03.916Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295377,
+      "lng": 122.612107,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:17:14.064Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295379,
+      "lng": 122.612116,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:17:24.087Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295381,
+      "lng": 122.612118,
+      "accuracyM": 8,
+      "speedKph": 1.2,
+      "timestamp": "2026-09-04T19:17:33.625Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295381,
+      "lng": 122.612121,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:17:43.990Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.29538,
+      "lng": 122.612117,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:17:54.349Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295373,
+      "lng": 122.612128,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:18:03.914Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295369,
+      "lng": 122.612128,
+      "accuracyM": 8,
+      "speedKph": 0.7,
+      "timestamp": "2026-09-04T19:18:14.109Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295361,
+      "lng": 122.612124,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:18:23.940Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295353,
+      "lng": 122.612115,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:18:33.734Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295349,
+      "lng": 122.612116,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:18:44.156Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295346,
+      "lng": 122.612118,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:18:53.946Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295344,
+      "lng": 122.612114,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:19:04.717Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295343,
+      "lng": 122.612112,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:19:13.918Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295343,
+      "lng": 122.612121,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:19:24.000Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295343,
+      "lng": 122.612122,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:19:33.776Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295342,
+      "lng": 122.612122,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:19:43.644Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295343,
+      "lng": 122.612121,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:19:54.706Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295344,
+      "lng": 122.612119,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:20:04.028Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.29535,
+      "lng": 122.612155,
+      "accuracyM": 8,
+      "speedKph": 6.2,
+      "timestamp": "2026-09-04T19:20:13.923Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295369,
+      "lng": 122.61215,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:20:24.055Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295378,
+      "lng": 122.612146,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:20:33.943Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295381,
+      "lng": 122.61214,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:20:43.942Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.29538,
+      "lng": 122.612131,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:20:54.057Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295381,
+      "lng": 122.612128,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:21:03.991Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.29538,
+      "lng": 122.612132,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:21:14.025Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295376,
+      "lng": 122.612132,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:21:24.061Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295386,
+      "lng": 122.612139,
+      "accuracyM": 8,
+      "speedKph": 3,
+      "timestamp": "2026-09-04T19:21:33.952Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295379,
+      "lng": 122.612134,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:21:44.028Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295378,
+      "lng": 122.612135,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:21:54.062Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295377,
+      "lng": 122.612136,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:22:03.939Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295372,
+      "lng": 122.612128,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:22:13.760Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295367,
+      "lng": 122.612127,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:22:24.485Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295361,
+      "lng": 122.612127,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:22:33.950Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295537,
+      "lng": 122.612725,
+      "accuracyM": 8,
+      "speedKph": 38,
+      "timestamp": "2026-09-04T19:22:43.966Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295507,
+      "lng": 122.612904,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:22:53.954Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295507,
+      "lng": 122.612719,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:23:03.655Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295468,
+      "lng": 122.612531,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:23:14.066Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295439,
+      "lng": 122.612411,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:23:23.768Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295406,
+      "lng": 122.612308,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:23:33.663Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295385,
+      "lng": 122.612232,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:23:43.836Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295376,
+      "lng": 122.612191,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:23:53.768Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295371,
+      "lng": 122.612172,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:24:04.008Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295365,
+      "lng": 122.612158,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:24:14.043Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295345,
+      "lng": 122.612002,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:29:47.923Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295347,
+      "lng": 122.612003,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:29:57.816Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295345,
+      "lng": 122.612042,
+      "accuracyM": 8,
+      "speedKph": 9.1,
+      "timestamp": "2026-09-04T19:30:07.940Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.29525,
+      "lng": 122.611678,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:30:17.549Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295298,
+      "lng": 122.611797,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:30:27.882Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295298,
+      "lng": 122.611884,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:30:37.804Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295301,
+      "lng": 122.611965,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:30:47.798Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.29533,
+      "lng": 122.612146,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:32:05.175Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295395,
+      "lng": 122.611992,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:33:32.049Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295382,
+      "lng": 122.612114,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:34:49.407Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295309,
+      "lng": 122.612098,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:58:00.969Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295311,
+      "lng": 122.612093,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:58:10.847Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295389,
+      "lng": 122.612152,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T19:59:33.296Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295338,
+      "lng": 122.612091,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T20:24:13.203Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.29542,
+      "lng": 122.612219,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T20:29:42.660Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295394,
+      "lng": 122.612147,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T20:31:08.108Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295387,
+      "lng": 122.612144,
+      "accuracyM": 8,
+      "speedKph": 2.3,
+      "timestamp": "2026-09-04T20:31:13.366Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295338,
+      "lng": 122.612149,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-04T20:36:35.596Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295362,
+      "lng": 122.61218,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-07T07:01:17.197Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295367,
+      "lng": 122.61219,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-07T07:01:26.981Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295366,
+      "lng": 122.612188,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-07T07:01:36.911Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295367,
+      "lng": 122.612187,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-07T07:01:46.638Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295374,
+      "lng": 122.612185,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-07T07:01:56.739Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.29538,
+      "lng": 122.612183,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-07T07:02:07.121Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295384,
+      "lng": 122.612182,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-07T07:02:17.065Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295386,
+      "lng": 122.612181,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-07T07:02:27.282Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295386,
+      "lng": 122.612181,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-07T07:02:36.965Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295387,
+      "lng": 122.612181,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-07T07:02:46.787Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295384,
+      "lng": 122.612182,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-07T07:02:56.669Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295386,
+      "lng": 122.612181,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-07T07:03:07.021Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295389,
+      "lng": 122.612179,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-07T07:03:16.782Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295391,
+      "lng": 122.612178,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-07T07:03:26.824Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.29539,
+      "lng": 122.612174,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-07T07:03:36.965Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295392,
+      "lng": 122.612171,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-07T07:03:46.545Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295393,
+      "lng": 122.61217,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-07T07:03:57.412Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295393,
+      "lng": 122.612169,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-07T07:04:07.233Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295394,
+      "lng": 122.61217,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-07T07:04:17.647Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295394,
+      "lng": 122.61217,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-07T07:04:26.743Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295394,
+      "lng": 122.61217,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-07T07:04:36.742Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295394,
+      "lng": 122.61217,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-07T07:04:47.272Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295396,
+      "lng": 122.612171,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-07T07:04:56.874Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295397,
+      "lng": 122.612171,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-07T07:05:06.950Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295398,
+      "lng": 122.61217,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-07T07:05:17.253Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295399,
+      "lng": 122.61217,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-07T07:05:27.481Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.2954,
+      "lng": 122.612169,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-07T07:05:36.851Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.2954,
+      "lng": 122.612166,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-07T07:05:46.773Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295402,
+      "lng": 122.612165,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-07T07:05:56.724Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295403,
+      "lng": 122.612164,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-07T07:06:07.066Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295403,
+      "lng": 122.612163,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-07T07:06:16.886Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295403,
+      "lng": 122.612163,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-07T07:06:26.821Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295404,
+      "lng": 122.612161,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-07T07:06:36.973Z"
+    },
+    {
+      "deviceId": "AZG-BOAT-001",
+      "lat": 12.295403,
+      "lng": 122.612159,
+      "accuracyM": 8,
+      "speedKph": 0,
+      "timestamp": "2026-09-07T07:06:47.816Z"
+    },
+    {
+      "deviceId": "TEST-BAN",
+      "lat": 12.5,
+      "lng": 122.9,
+      "accuracyM": 0,
+      "speedKph": 0,
+      "timestamp": "2026-09-14T09:31:21.733Z"
+    },
+    {
+      "deviceId": "TEST-BAN",
+      "lat": 12.51,
+      "lng": 122.91,
+      "accuracyM": 0,
+      "speedKph": 0,
+      "timestamp": "2026-09-14T09:31:21.748Z"
+    },
+    {
+      "deviceId": "TEST-BAN",
+      "lat": 12.52,
+      "lng": 122.92,
+      "accuracyM": 0,
+      "speedKph": 0,
+      "timestamp": "2026-09-14T09:31:21.762Z"
+    },
+    {
+      "deviceId": "TEST-BAN",
+      "lat": 12.53,
+      "lng": 122.93,
+      "accuracyM": 0,
+      "speedKph": 0,
+      "timestamp": "2026-09-14T09:31:21.775Z"
+    },
+    {
+      "deviceId": "TEST-BAN",
+      "lat": 12.54,
+      "lng": 122.94,
+      "accuracyM": 0,
+      "speedKph": 0,
+      "timestamp": "2026-09-14T09:31:21.787Z"
+    },
+    {
+      "deviceId": "TEST-FENCE",
+      "lat": 12.2798,
+      "lng": 122.6282,
+      "accuracyM": 0,
+      "speedKph": 8,
+      "timestamp": "2026-09-14T11:33:31.764Z"
+    },
+    {
+      "deviceId": "TEST-FENCE",
+      "lat": 12.3298,
+      "lng": 122.6282,
+      "accuracyM": 0,
+      "speedKph": 8,
+      "timestamp": "2026-09-14T11:33:42.764Z"
+    },
+    {
+      "deviceId": "TEST-FENCE",
+      "lat": 12.3298,
+      "lng": 122.6282,
+      "accuracyM": 0,
+      "speedKph": 8,
+      "timestamp": "2026-09-14T11:33:53.764Z"
+    },
+    {
+      "deviceId": "TEST-FENCE",
+      "lat": 12.3298,
+      "lng": 122.6282,
+      "accuracyM": 0,
+      "speedKph": 8,
+      "timestamp": "2026-09-14T11:34:04.764Z"
+    },
+    {
+      "deviceId": "TEST-FENCE",
+      "lat": 12.2798,
+      "lng": 122.6282,
+      "accuracyM": 0,
+      "speedKph": 8,
+      "timestamp": "2026-09-14T11:34:15.764Z"
+    },
+    {
+      "deviceId": "TEST-FENCE",
+      "lat": 12.3298,
+      "lng": 122.6282,
+      "accuracyM": 0,
+      "speedKph": 8,
+      "timestamp": "2026-09-14T11:34:26.764Z"
+    },
+    {
+      "deviceId": "TEST-SF",
+      "lat": 12.2798,
+      "lng": 122.6282,
+      "accuracyM": 0,
+      "speedKph": 8,
+      "timestamp": "2026-09-14T14:05:05.989Z"
+    },
+    {
+      "deviceId": "TEST-SF",
+      "lat": 12.3298,
+      "lng": 122.6282,
+      "accuracyM": 0,
+      "speedKph": 8,
+      "timestamp": "2026-09-14T14:05:16.989Z"
+    },
+    {
+      "deviceId": "TEST-SF",
+      "lat": 12.3298,
+      "lng": 122.6282,
+      "accuracyM": 0,
+      "speedKph": 8,
+      "timestamp": "2026-09-14T14:05:27.989Z"
+    },
+    {
+      "deviceId": "TEST-SF",
+      "lat": 12.3298,
+      "lng": 122.6282,
+      "accuracyM": 0,
+      "speedKph": 8,
+      "timestamp": "2026-09-14T14:05:38.989Z"
+    },
+    {
+      "deviceId": "TEST-SF",
+      "lat": 12.2798,
+      "lng": 122.6282,
+      "accuracyM": 0,
+      "speedKph": 8,
+      "timestamp": "2026-09-14T14:05:49.989Z"
+    }
+  ],
+  "alerts": [
+    {
+      "type": "GEOFENCE",
+      "deviceId": "TEST-DOCK",
+      "message": " left Azagra, Sibuyan Island safe operating area",
+      "timestamp": "2026-09-14T09:47:29.116Z",
+      "resolved": false
+    },
+    {
+      "type": "GEOFENCE",
+      "deviceId": "AZG-BOAT-001",
+      "message": "F/V Pag-asa left Azagra, Sibuyan Island safe operating area",
+      "timestamp": "2026-09-07T07:01:17.197Z",
+      "resolved": false
+    },
+    {
+      "type": "GEOFENCE",
+      "deviceId": "AZG-BOAT-001",
+      "message": "F/V Pag-asa left Azagra, Sibuyan Island safe operating area",
+      "timestamp": "2026-09-04T19:17:03.916Z",
+      "resolved": true
+    },
+    {
+      "type": "GEOFENCE",
+      "deviceId": "AZG-BOAT-001",
+      "message": "F/V Pag-asa left Azagra, Sibuyan Island safe operating area",
+      "timestamp": "2026-09-04T18:35:10.793Z",
+      "resolved": true
+    },
+    {
+      "type": "GEOFENCE",
+      "deviceId": "AZG-BOAT-001",
+      "message": "F/V Pag-asa left Azagra, Sibuyan Island safe operating area",
+      "timestamp": "2026-09-04T17:48:56.104Z",
+      "resolved": true
+    },
+    {
+      "type": "GEOFENCE",
+      "deviceId": "AZG-BOAT-001",
+      "message": "F/V Pag-asa left Azagra, Sibuyan Island safe operating area",
+      "timestamp": "2026-09-01T18:30:46.396Z",
+      "resolved": true
+    },
+    {
+      "type": "GEOFENCE",
+      "deviceId": "AZG-BOAT-001",
+      "message": "F/V Pag-asa left Azagra, Sibuyan Island safe operating area",
+      "timestamp": "2026-09-01T17:45:10.562Z",
+      "resolved": true
+    },
+    {
+      "type": "GEOFENCE",
+      "deviceId": "AZG-BOAT-001",
+      "message": "F/V Pag-asa left Azagra, Sibuyan Island safe operating area",
+      "timestamp": "2026-09-01T17:35:44.654Z",
+      "resolved": true
+    },
+    {
+      "type": "GEOFENCE",
+      "deviceId": "AZG-BOAT-001",
+      "message": "F/V Pag-asa left Azagra, Sibuyan Island safe operating area",
+      "timestamp": "2026-09-01T17:27:15.014Z",
+      "resolved": true
+    },
+    {
+      "type": "GEOFENCE",
+      "deviceId": "AZG-BOAT-001",
+      "message": "F/V Pag-asa left Azagra, Sibuyan Island safe operating area",
+      "timestamp": "2026-09-01T17:26:59.933Z",
+      "resolved": true
+    },
+    {
+      "type": "GEOFENCE",
+      "deviceId": "AZG-BOAT-001",
+      "message": "F/V Pag-asa left Azagra, Sibuyan Island safe operating area",
+      "timestamp": "2026-09-01T17:20:21.342Z",
+      "resolved": true
+    },
+    {
+      "type": "GEOFENCE",
+      "deviceId": "AZG-BOAT-001",
+      "message": "F/V Pag-asa left Azagra, Sibuyan Island safe operating area",
+      "timestamp": "2026-09-01T16:52:06.717Z",
+      "resolved": true
+    },
+    {
+      "type": "GEOFENCE",
+      "deviceId": "AZG-BOAT-001",
+      "message": "F/V Pag-asa left Azagra, Sibuyan Island safe operating area",
+      "timestamp": "2026-09-01T16:36:14.164Z",
+      "resolved": true
+    },
+    {
+      "type": "GEOFENCE",
+      "deviceId": "AZG-BOAT-001",
+      "message": "F/V Pag-asa left Azagra, Sibuyan Island safe operating area",
+      "timestamp": "2026-09-01T16:31:58.184Z",
+      "resolved": true
+    },
+    {
+      "type": "GEOFENCE",
+      "deviceId": "AZG-BOAT-001",
+      "message": "F/V Pag-asa left Azagra, Sibuyan Island safe operating area",
+      "timestamp": "2026-09-01T16:17:36.265Z",
+      "resolved": true
+    },
+    {
+      "type": "GEOFENCE",
+      "deviceId": "AZG-BOAT-001",
+      "message": "F/V Pag-asa left Azagra, Sibuyan Island safe operating area",
+      "timestamp": "2026-09-01T16:15:20.263Z",
+      "resolved": true
+    },
+    {
+      "type": "GEOFENCE",
+      "deviceId": "AZG-BOAT-001",
+      "message": "F/V Pag-asa left Azagra, Sibuyan Island safe operating area",
+      "timestamp": "2026-09-01T16:15:05.512Z",
+      "resolved": true
+    },
+    {
+      "type": "GEOFENCE",
+      "deviceId": "AZG-BOAT-001",
+      "message": "F/V Pag-asa left Azagra, Sibuyan Island safe operating area",
+      "timestamp": "2026-09-01T16:12:04.012Z",
+      "resolved": true
+    },
+    {
+      "type": "GEOFENCE",
+      "deviceId": "AZG-BOAT-001",
+      "message": "F/V Pag-asa left Azagra, Sibuyan Island safe operating area",
+      "timestamp": "2026-09-01T15:24:59.491Z",
+      "resolved": true
+    },
+    {
+      "type": "GEOFENCE",
+      "deviceId": "AZG-BOAT-001",
+      "message": "F/V Pag-asa left Azagra, Sibuyan Island safe operating area",
+      "timestamp": "2026-09-01T15:14:39.839Z",
+      "resolved": true
+    },
+    {
+      "type": "GEOFENCE",
+      "deviceId": "AZG-BOAT-001",
+      "message": "F/V Pag-asa left Azagra, Sibuyan Island safe operating area",
+      "timestamp": "2026-09-01T15:11:42.419Z",
+      "resolved": true
+    },
+    {
+      "type": "GEOFENCE",
+      "deviceId": "AZG-BOAT-001",
+      "message": "F/V Pag-asa left Azagra, Sibuyan Island safe operating area",
+      "timestamp": "2026-08-31T16:03:08.199Z",
+      "resolved": true
+    },
+    {
+      "type": "GEOFENCE",
+      "deviceId": "AZG-BOAT-001",
+      "message": "F/V Pag-asa left Azagra, Sibuyan Island safe operating area",
+      "timestamp": "2026-08-31T16:00:08.181Z",
+      "resolved": true
+    },
+    {
+      "type": "GEOFENCE",
+      "deviceId": "AZG-BOAT-001",
+      "message": "F/V Pag-asa left Azagra, Sibuyan Island safe operating area",
+      "timestamp": "2026-08-31T15:36:13.984Z",
+      "resolved": true
+    },
+    {
+      "type": "GEOFENCE",
+      "deviceId": "AZG-BOAT-001",
+      "message": "F/V Pag-asa left Azagra, Sibuyan Island safe operating area",
+      "timestamp": "2026-08-31T15:15:33.332Z",
+      "resolved": true
+    },
+    {
+      "type": "GEOFENCE",
+      "deviceId": "AZG-BOAT-001",
+      "message": "F/V Pag-asa left Azagra, Sibuyan Island safe operating area",
+      "timestamp": "2026-08-31T14:38:10.694Z",
+      "resolved": true
+    },
+    {
+      "type": "GEOFENCE",
+      "deviceId": "AZG-BOAT-001",
+      "message": "F/V Pag-asa left Azagra, Sibuyan Island safe operating area",
+      "timestamp": "2026-08-30T05:04:56.848Z",
+      "resolved": true
+    },
+    {
+      "type": "GEOFENCE",
+      "deviceId": "AZG-BOAT-001",
+      "message": "F/V Pag-asa left Azagra safe operating area",
+      "timestamp": "2026-08-28T21:50:42.250Z",
+      "resolved": true
+    }
+  ]
+}

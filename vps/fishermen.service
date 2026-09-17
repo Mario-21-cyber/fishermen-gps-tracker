@@ -1,0 +1,17 @@
+[Unit]
+Description=Fishermen Tracker (Node, zero-dependency)
+After=network.target
+
+[Service]
+Type=simple
+WorkingDirectory=/opt/fishermen-tracker
+ExecStart=/usr/bin/node server/server.js
+Restart=always
+RestartSec=3
+Environment=PORT=3000
+# Opsyonal na hardening: palitan ang API key (DAPAT tugma sa firmware!)
+# Environment=TRACKER_API_KEY=palitan-mo-ito
+User=fishermen
+
+[Install]
+WantedBy=multi-user.target

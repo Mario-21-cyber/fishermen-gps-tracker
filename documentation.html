@@ -1,0 +1,245 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Fishermen GPS Tracking System - Technical Documentation</title>
+    <style>
+      body {
+        font-family: Calibri, Arial, sans-serif;
+        font-size: 11pt;
+        line-height: 1.55;
+        color: #2c3e50;
+        margin: 24px;
+      }
+      h1 {
+        font-size: 20pt;
+        color: #1a5276;
+        border-bottom: 2px solid #2980b9;
+        padding-bottom: 6px;
+        margin-top: 28px;
+        page-break-before: always;
+      }
+      h1.first {
+        page-break-before: avoid;
+      }
+      h2 {
+        font-size: 14pt;
+        color: #2471a3;
+        margin-top: 18px;
+        border-bottom: 1px solid #d5dbdb;
+        padding-bottom: 3px;
+      }
+      h3 {
+        font-size: 12pt;
+        color: #2c3e50;
+        margin-top: 14px;
+      }
+      p {
+        margin: 7px 0;
+        text-align: justify;
+      }
+      ul,
+      ol {
+        margin: 6px 0 10px 22px;
+      }
+      li {
+        margin: 3px 0;
+      }
+      code {
+        font-family: Consolas, "Courier New", monospace;
+        background: #eef2f5;
+        padding: 1px 4px;
+        font-size: 9.5pt;
+        color: #a93226;
+      }
+      pre {
+        font-family: Consolas, "Courier New", monospace;
+        background: #22313f;
+        color: #ecf0f1;
+        padding: 11px 13px;
+        border-radius: 4px;
+        font-size: 8.5pt;
+        line-height: 1.35;
+        margin: 9px 0;
+        white-space: pre-wrap;
+        word-wrap: break-word;
+      }
+      table {
+        width: 100%;
+        border-collapse: collapse;
+        margin: 12px 0;
+        font-size: 9.5pt;
+      }
+      th {
+        background: #2980b9;
+        color: #fff;
+        padding: 7px 9px;
+        text-align: left;
+      }
+      td {
+        border: 1px solid #ccd6dd;
+        padding: 5px 9px;
+        vertical-align: top;
+      }
+      .note {
+        background: #eaf2f8;
+        border-left: 4px solid #2980b9;
+        padding: 9px 13px;
+        margin: 12px 0;
+      }
+      .warn {
+        background: #fdedec;
+        border-left: 4px solid #e74c3c;
+        padding: 9px 13px;
+        margin: 12px 0;
+      }
+      .diagram {
+        text-align: center;
+        margin: 18px 0;
+        padding: 12px;
+        border: 1px solid #ccd6dd;
+        background: #fbfcfc;
+      }
+      .cover {
+        text-align: center;
+        padding: 40px 16px;
+        page-break-after: always;
+      }
+      .cover h1 {
+        font-size: 26pt;
+        border: none;
+        page-break-before: avoid;
+      }
+      .cover .sub {
+        font-size: 14pt;
+        color: #7f8c8d;
+        margin-bottom: 34px;
+      }
+      .cover .meta {
+        font-size: 11pt;
+        line-height: 1.9;
+        color: #34495e;
+        margin-top: 40px;
+      }
+      .cover .logo {
+        font-size: 54pt;
+      }
+      .toc li {
+        margin: 5px 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="cover">
+      <div class="logo">&#9875;</div>
+      <h1 class="first">Fishermen GPS Tracking System</h1>
+      <div class="sub">Technical Documentation</div>
+      <div class="meta">
+        <b>Project:</b> fishermen-gps-tracker<br />
+        <b>Version:</b> 1.0<br />
+        <b>Date:</b> August 29, 2026<br />
+        <b>Platform:</b> DigitalOcean Droplet (Ubuntu 24.04) + Local Mac
+        Fallback<br />
+        <b>Architecture:</b> ESP32 Hardware + Web Dashboard
+        (Client&ndash;Server)<br />
+        <b>Live URL:</b> http://139.59.118.248
+      </div>
+    </div>
+
+    <h1 class="first">Table of Contents</h1>
+    <ol class="toc">
+      <li>Geofencing and Emergency Alerts</li>
+      <li>Database and Backend</li>
+      <li>ESP32 and GPS</li>
+      <li>
+        User Authentication and Access Control
+        <i>(includes Admin User Management)</i>
+      </li>
+      <li>Monitoring Dashboard</li>
+      <li>GPS Data Processing</li>
+      <li>Appendix: Database Structure Diagram</li>
+    </ol>
+
+    <h2>Technology Stack Summary</h2>
+    <table>
+      <tr>
+        <th>Component</th>
+        <th>Technology</th>
+        <th>Purpose</th>
+      </tr>
+      <tr>
+        <td>Backend server</td>
+        <td>Node.js (built-in <code>http</code>, zero npm dependencies)</td>
+        <td>Receives GPS telemetry, stores data, serves the dashboard API</td>
+      </tr>
+      <tr>
+        <td>Frontend</td>
+        <td>HTML5, CSS3, Vanilla JavaScript</td>
+        <td>Map dashboard, alerts, vessel management, sailing records</td>
+      </tr>
+      <tr>
+        <td>Map rendering</td>
+        <td>Leaflet.js 1.9.4 + OpenStreetMap tiles</td>
+        <td>Live vessel map, route polylines, geofence circle</td>
+      </tr>
+      <tr>
+        <td>Firmware</td>
+        <td>C++ (Arduino framework, PlatformIO)</td>
+        <td>GPS reading and telemetry transmission on the boat</td>
+      </tr>
+      <tr>
+        <td>Hardware</td>
+        <td>ESP32 + u-blox NEO-M8N GPS + SIM7600E LTE modem</td>
+        <td>On-board tracking unit</td>
+      </tr>
+      <tr>
+        <td>GPS parsing</td>
+        <td>TinyGPSPlus library</td>
+        <td>Parses NMEA sentences from the GPS module</td>
+      </tr>
+      <tr>
+        <td>Authentication</td>
+        <td>PBKDF2/bcrypt salted hash + random session tokens</td>
+        <td>Protects the dashboard from unauthorised access</td>
+      </tr>
+      <tr>
+        <td>Storage</td>
+        <td>File-based JSON (<code>data/*.json</code>)</td>
+        <td>All persistent data &mdash; no database server required</td>
+      </tr>
+      <tr>
+        <td>Real-time</td>
+        <td>Server-Sent Events (SSE)</td>
+        <td>Live position and alert push to the browser</td>
+      </tr>
+      <tr>
+        <td>Web server</td>
+        <td>nginx (port 80 reverse proxy &rarr; Node.js port 3000)</td>
+        <td>Public entry point, gzip, caching, upload size limit</td>
+      </tr>
+      <tr>
+        <td>Process manager</td>
+        <td>systemd</td>
+        <td>Auto-restart the server on crash or reboot</td>
+      </tr>
+      <tr>
+        <td>Deployment</td>
+        <td>Bash (<code>deploy-droplet.sh</code>)</td>
+        <td>One-command server setup and board flashing</td>
+      </tr>
+    </table>
+
+    <h2>Project File Structure</h2>
+    <pre>
+fishermen-gps-tracker/
+  server/server.js          Main Node.js backend (API + static file server)
+  web/index.html            Dashboard shell (sidebar, map, panels, modals)
+  web/app.js                Frontend logic (map, alerts, vessels, records, admin users)
+  web/style.css             All styling (layout, responsive breakpoints, print rules)
+  web/login.html, login.js  Login page
+  firmware/src/main.cpp     ESP32 firmware (GPS + telemetry + SOS)
+  data/                     JSON data store (see Section 2)
+  deploy-droplet.sh         DigitalOcean deployment automation</pre
+    >
+  </body>
+</html>

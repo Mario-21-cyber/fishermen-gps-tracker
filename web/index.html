@@ -1,0 +1,313 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Azagra Fishermen Monitor</title>
+    <link rel="stylesheet" href="leaflet.css" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div id="backdrop"></div>
+
+    <aside id="sidebar">
+      <div class="side-brand">
+        <span class="side-logo">🚤</span>
+        <div>
+          <b>Fishermen Monitor</b>
+          <small>Azagra · Sibuyan Island</small>
+        </div>
+      </div>
+      <nav id="nav">
+        <div class="side-label">Main menu</div>
+        <button class="nav-item active" data-view="dashboard">🗺️ <span>Dashboard</span></button>
+        <button class="nav-item" data-view="vessels">🛥️ <span>Vessels</span></button>
+        <button class="nav-item" data-view="alerts">🔔 <span>Alerts</span><em id="nav-alert-count" class="nav-badge">0</em></button>
+        <button class="nav-item" data-view="activities">🧭 <span>Activity log</span></button>
+        <button class="nav-item" data-view="settings">⚙️ <span>Settings</span></button>
+      </nav>
+      <div class="side-footer">
+        <div class="side-user">
+          <span class="avatar">👤</span>
+          <div>
+            <b id="side-username">admin</b>
+            <small>Administrator</small>
+          </div>
+        </div>
+        <button id="logout" class="side-logout">⏻ Log out</button>
+      </div>
+    </aside>
+
+    <div class="main">
+      <header class="topbar">
+        <button id="menu" class="hamburger">☰</button>
+        <h1 id="view-title">Dashboard</h1>
+        <span id="live" class="live-chip offline">● CONNECTING</span>
+      </header>
+
+      <main>
+        <section id="view-dashboard" class="view active">
+          <div id="offline-banner" class="offline-banner" style="display:none">
+            <span id="offline-text"></span>
+            <span class="banner-actions">
+              <button id="alarm-stop" class="mini">🔕 Stop alarm</button>
+              <span id="alarm-acked" class="muted" style="display:none">🔕 Alarm silenced — waiting for signal…</span>
+            </span>
+          </div>
+          <div id="fence-banner" class="fence-banner" style="display:none">
+            <span id="fence-text"></span>
+            <span class="banner-actions">
+              <button id="fence-ack" class="mini">✅ Mark as read</button>
+            </span>
+          </div>
+          <section class="metrics">
+            <article><b id="active">0</b><span>Vessels online</span></article>
+            <article><b id="sos">0</b><span>Unresolved SOS</span></article>
+            <article><b id="fence">0</b><span>Geofence alerts</span></article>
+            <article><b id="updated">—</b><span>Last update</span></article>
+          </section>
+          <section class="panel">
+            <div id="map"></div>
+            <p class="legend">
+              <i></i> Active boat &nbsp;
+              <i class="red"></i> SOS / out of boundary &nbsp;
+              <i class="fence"></i> Safe operating area &nbsp;
+              <i class="track"></i> Track history
+            </p>
+          </section>
+          <section class="panel">
+            <h2>Recent alerts</h2>
+            <div id="alerts-dash" class="alerts"></div>
+          </section>
+        </section>
+
+        <section id="view-vessels" class="view">
+          <section class="panel">
+            <div class="row">
+              <h2>Registered vessels</h2>
+              <div class="row-actions">
+                <button id="add" class="primary">＋ Add vessel</button>
+                <button onclick="window.print()">Print tracking log</button>
+              </div>
+            </div>
+            <div class="table-scroll">
+              <table>
+                <thead>
+                  <tr>
+                    <th>Photo</th>
+                    <th>Fisherman</th>
+                    <th>Boat</th>
+                    <th>Device</th>
+                    <th>Status</th>
+                    <th>Last coordinates</th>
+                    <th>Speed</th>
+                    <th>Last seen</th>
+                    <th></th>
+                  </tr>
+                </thead>
+                <tbody id="boats"></tbody>
+              </table>
+            </div>
+          </section>
+        </section>
+
+        <section id="view-activities" class="view">
+          <section class="panel">
+            <div class="row">
+              <h2>Sailing records</h2>
+              <span class="muted" id="act-total"></span>
+            </div>
+            <p class="muted act-sub">Every sail is recorded here — click a route card to view its full GPS trail. Records are printable.</p>
+            <div class="act-controls">
+              <div class="act-search-wrap">
+                <span class="act-search-icon">🔍</span>
+                <input id="act-search" type="search" placeholder="Search fisherman name…" autocomplete="off" />
+              </div>
+              <button id="act-print" class="primary act-print-btn">🖨️ Print</button>
+            </div>
+            <div id="act-list" class="act-list"></div>
+          </section>
+        </section>
+
+        <section id="view-alerts" class="view">
+          <section class="panel">
+            <div class="row">
+              <h2>Alert history</h2>
+              <span class="muted" id="alert-total"></span>
+            </div>
+            <div class="act-controls">
+              <div class="act-search-wrap">
+                <span class="act-search-icon">🔍</span>
+                <input id="alert-search" type="search" placeholder="Search type, fisherman, boat, message…" autocomplete="off" />
+              </div>
+              <button id="alert-print" class="primary act-print-btn">🖨️ Print</button>
+            </div>
+            <div id="alerts-all" class="alerts"></div>
+          </section>
+        </section>
+
+        <section id="view-settings" class="view">
+          <section class="panel">
+            <h2>My admin account</h2>
+            <p class="muted">Change <b>your own</b> login username or password. Credentials are stored salted and hashed.</p>
+            <form id="cred-form" class="settings-form">
+              <label>Current password
+                <input id="cur-pass" type="password" autocomplete="current-password" required />
+              </label>
+              <label>New username
+                <input id="new-user" autocomplete="username" />
+              </label>
+              <label>New password (leave blank to keep current)
+                <input id="new-pass" type="password" autocomplete="new-password" />
+              </label>
+              <label>Confirm new password
+                <input id="new-pass2" type="password" autocomplete="new-password" />
+              </label>
+              <p id="cred-msg" class="form-msg"></p>
+              <button type="submit" class="primary">Update admin account</button>
+            </form>
+          </section>
+
+          <section class="panel">
+            <div class="row">
+              <h2>Admin users</h2>
+              <div class="row-actions">
+                <button id="user-add" class="primary">＋ Add admin</button>
+              </div>
+            </div>
+            <p class="muted">
+              Add other admins and decide what they can do. <b>Owner</b> = full access
+              (including this page). <b>Operator</b> = dashboard, vessels, alerts and
+              activity log only. You can deactivate an account anytime — it is blocked
+              from signing in but its record is kept — or delete it completely.
+            </p>
+            <p id="user-msg" class="form-msg"></p>
+            <div id="admin-users" class="usr-list"></div>
+          </section>
+
+          <section class="panel">
+            <h2>Safe operating area (geofence)</h2>
+            <p class="muted">When a boat leaves this circle, a GEOFENCE alert is raised on the dashboard.</p>
+            <form id="fence-form" class="settings-form">
+              <label>Name
+                <input id="g-name" />
+              </label>
+              <div class="grid2">
+                <label>Latitude
+                  <input id="g-lat" type="number" step="0.0001" />
+                </label>
+                <label>Longitude
+                  <input id="g-lng" type="number" step="0.0001" />
+                </label>
+              </div>
+              <label>Radius (meters, 100–100000)
+                <input id="g-radius" type="number" step="100" min="100" max="100000" />
+              </label>
+              <p id="fence-msg" class="form-msg"></p>
+              <button type="submit" class="primary">Save geofence</button>
+            </form>
+          </section>
+          <section class="panel">
+            <h2>System information</h2>
+            <div id="sysinfo" class="sysinfo"></div>
+          </section>
+        </section>
+      </main>
+    </div>
+
+    <div id="form-wrap" class="modal-wrap">
+      <form id="vessel-form" class="modal">
+        <h2 id="form-title">Add vessel</h2>
+        <label>Device ID
+          <input id="f-deviceId" placeholder="AZG-BOAT-002" required />
+        </label>
+        <label>Fisherman name
+          <input id="f-fisherman" placeholder="Fisherman's full name" required />
+        </label>
+        <label>Boat name
+          <input id="f-boatName" placeholder="F/V ..." />
+        </label>
+        <label>Emergency contact
+          <input id="f-emergencyContact" placeholder="09xx-xxx-xxxx" />
+        </label>
+        <label>Boat registration
+          <input id="f-registration" placeholder="AZG-001" />
+        </label>
+        <label class="ban-toggle">
+          <input type="checkbox" id="f-sailBan" />
+          <span>No-sail order — every sail while banned is recorded as a violation</span>
+        </label>
+        <div class="photo-field">
+          <div id="photo-preview" class="photo-preview empty">🚤</div>
+          <div class="photo-side">
+            <label id="photo-label" class="photo-btn" for="f-photo">📷 Add photo</label>
+            <input type="file" id="f-photo" accept="image/*" hidden />
+            <small id="photo-hint" class="muted">Boat/fisherman photo (optional)</small>
+          </div>
+        </div>
+        <p id="form-error" class="form-error"></p>
+        <div class="form-actions">
+          <button type="button" id="cancel">Cancel</button>
+          <button type="submit" class="primary">Save</button>
+        </div>
+      </form>
+    </div>
+
+    <div id="user-wrap" class="modal-wrap">
+      <form id="user-form" class="modal">
+        <h2 id="user-title">Add admin</h2>
+        <label>Username
+          <input id="u-name" placeholder="juandelacruz" autocomplete="off" required />
+        </label>
+        <div class="grid2">
+          <label>Password
+            <input id="u-pass" type="password" autocomplete="new-password" />
+          </label>
+          <label>Confirm password
+            <input id="u-pass2" type="password" autocomplete="new-password" />
+          </label>
+        </div>
+        <label>Role
+          <select id="u-role">
+            <option value="owner">Owner — full access (can manage admins)</option>
+            <option value="operator">Operator — dashboard only</option>
+          </select>
+        </label>
+        <label class="ban-toggle">
+          <input type="checkbox" id="u-mustchange" checked />
+          <span>Require a password change on first login</span>
+        </label>
+        <label class="ban-toggle" id="u-active-row" style="display:none">
+          <input type="checkbox" id="u-active" checked />
+          <span>Account is active — uncheck to block sign-in (record is kept)</span>
+        </label>
+        <p id="u-self-note" class="muted" style="display:none">
+          ⚠ This is <b>your own</b> account — you cannot deactivate or delete it.
+        </p>
+        <p id="user-error" class="form-error"></p>
+        <div class="form-actions">
+          <button type="button" id="user-cancel">Cancel</button>
+          <button type="submit" class="primary">Save</button>
+        </div>
+      </form>
+    </div>
+
+    <div id="route-wrap" class="modal-wrap">
+      <div class="modal route-modal">
+        <div class="route-head">
+          <div>
+            <h2 id="route-title">Route history</h2>
+            <p id="route-sub" class="muted"></p>
+          </div>
+          <button id="route-close" class="mini">✕ Close</button>
+        </div>
+        <div id="route-map"></div>
+        <h3>GPS trail — every recorded point</h3>
+        <div id="route-timeline" class="route-timeline"></div>
+      </div>
+    </div>
+
+    <script src="leaflet.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
