@@ -12,7 +12,7 @@ unsigned int sosSeq=0; // bilang ng SOS trigger: BAGONG pindot = bagong episode 
 constexpr int BEEP_PIN=33; // BUZZER: signal wire -> GPIO33, GND -> GND (nagbeep habang SOS aktibo)
 void beepOnce(unsigned ms){ for(unsigned long t0=millis(); millis()-t0<ms;){ digitalWrite(BEEP_PIN,HIGH); delayMicroseconds(180); digitalWrite(BEEP_PIN,LOW); delayMicroseconds(180);} } // ~2.8kHz beep
 const char* DEVICE_ID="AZG-BOAT-001";
-const char* APN="internet.gomo.ph"; // GOMO (Globe MVNO). Kung hindi mag-data, subukan: "http.globe.com.ph"
+const char* APN="internet"; // SMART. Kung hindi mag-data, subukan: "smartlte" o "smartbro"
 const char* SERVER_HOST="139.59.118.248"; // serveo edge IP (dig +short <subdomain>) - connect target
 constexpr uint16_t SERVER_PORT=80; // port 80: pinapadaan ng carrier network (ang 13682 ay kinakain ng TCP middlebox)
 const char* SERVER_HOSTNAME="139.59.118.248"; // Host header - dito nagro-route ang serveo (nagbabago tuwing bagong ssh -R session!)
